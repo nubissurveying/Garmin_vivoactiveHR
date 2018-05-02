@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommApp.mc" lineNum="21" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommApp.mc" lineNum="22" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommApp.mc" lineNum="24" pc="268435482" symbol="initialize"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommApp.mc" lineNum="25" pc="268435506" symbol="initialize"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommApp.mc" lineNum="26" pc="268435530" symbol="initialize"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommApp.mc" lineNum="27" pc="268435545" symbol="initialize"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommApp.mc" lineNum="29" pc="268435572" symbol="initialize"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommApp.mc" lineNum="34" pc="268435597" symbol="onStart"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommApp.mc" lineNum="38" pc="268435602" symbol="onStop"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommApp.mc" lineNum="42" pc="268435607" symbol="getInitialView"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommApp.mc" lineNum="43" pc="268435611" symbol="getInitialView"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommApp.mc" lineNum="46" pc="268435679" symbol="onMail"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommApp.mc" lineNum="47" pc="268435683" symbol="onMail"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommApp.mc" lineNum="49" pc="268435683" symbol="onMail"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommApp.mc" lineNum="51" pc="268435696" symbol="onMail"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommApp.mc" lineNum="52" pc="268435703" symbol="onMail"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommApp.mc" lineNum="53" pc="268435703" symbol="onMail"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommApp.mc" lineNum="54" pc="268435730" symbol="onMail"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommApp.mc" lineNum="56" pc="268435771" symbol="onMail"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommApp.mc" lineNum="57" pc="268435796" symbol="onMail"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommApp.mc" lineNum="58" pc="268435809" symbol="onMail"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommApp.mc" lineNum="61" pc="268435825" symbol="onMail"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommApp.mc" lineNum="62" pc="268435841" symbol="onMail"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommApp.mc" lineNum="65" pc="268435858" symbol="onPhone"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommApp.mc" lineNum="66" pc="268435862" symbol="onPhone"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommApp.mc" lineNum="68" pc="268435862" symbol="onPhone"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommApp.mc" lineNum="69" pc="268435904" symbol="onPhone"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommApp.mc" lineNum="72" pc="268435923" symbol="onPhone"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommApp.mc" lineNum="73" pc="268435950" symbol="onPhone"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommApp.mc" lineNum="75" pc="268435991" symbol="onPhone"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommApp.mc" lineNum="76" pc="268436022" symbol="onPhone"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommApp.mc" lineNum="78" pc="268436035" symbol="onPhone"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="23" pc="268436052" symbol="initialize"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="24" pc="268436056" symbol="initialize"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="25" pc="268436074" symbol="initialize"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="26" pc="268436110" symbol="initialize"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="27" pc="268436151" symbol="initialize"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="28" pc="268436164" symbol="initialize"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="29" pc="268436177" symbol="initialize"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="30" pc="268436190" symbol="initialize"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="33" pc="268436204" symbol="onLayout"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="34" pc="268436208" symbol="onLayout"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="36" pc="268436238" symbol="timerCallback"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="37" pc="268436242" symbol="timerCallback"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="38" pc="268436261" symbol="timerCallback"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="39" pc="268436285" symbol="timerCallback"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="41" pc="268436292" symbol="timerCallback"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="42" pc="268436319" symbol="timerCallback"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="43" pc="268436335" symbol="timerCallback"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="44" pc="268436351" symbol="timerCallback"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="45" pc="268436367" symbol="timerCallback"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="46" pc="268436383" symbol="timerCallback"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="47" pc="268436429" symbol="timerCallback"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="48" pc="268436445" symbol="timerCallback"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="51" pc="268436467" symbol="timerCallback"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="52" pc="268436487" symbol="timerCallback"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="53" pc="268436506" symbol="timerCallback"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="54" pc="268436531" symbol="timerCallback"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="55" pc="268436555" symbol="timerCallback"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="56" pc="268436582" symbol="timerCallback"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="57" pc="268436598" symbol="timerCallback"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="58" pc="268436611" symbol="timerCallback"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="63" pc="268436628" symbol="drawIntroPage"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="64" pc="268436632" symbol="drawIntroPage"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="65" pc="268436656" symbol="drawIntroPage"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="66" pc="268436722" symbol="drawIntroPage"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="67" pc="268436785" symbol="drawIntroPage"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="68" pc="268436848" symbol="drawIntroPage"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="69" pc="268436911" symbol="drawIntroPage"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="70" pc="268436977" symbol="drawIntroPage"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="71" pc="268437001" symbol="drawIntroPage"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="72" pc="268437064" symbol="drawIntroPage"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="73" pc="268437127" symbol="drawIntroPage"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="74" pc="268437190" symbol="drawIntroPage"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="75" pc="268437256" symbol="drawIntroPage"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="76" pc="268437282" symbol="drawIntroPage"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="77" pc="268437333" symbol="drawIntroPage"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="78" pc="268437384" symbol="drawIntroPage"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="79" pc="268437435" symbol="drawIntroPage"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="81" pc="268437489" symbol="drawIntroPage"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="82" pc="268437543" symbol="drawIntroPage"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="83" pc="268437594" symbol="drawIntroPage"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="84" pc="268437645" symbol="drawIntroPage"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="85" pc="268437696" symbol="drawIntroPage"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="86" pc="268437747" symbol="drawIntroPage"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="90" pc="268437799" symbol="onUpdate"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="91" pc="268437803" symbol="onUpdate"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="92" pc="268437839" symbol="onUpdate"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="93" pc="268437851" symbol="onUpdate"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="95" pc="268437887" symbol="onUpdate"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="96" pc="268437904" symbol="onUpdate"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="98" pc="268437921" symbol="onUpdate"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="99" pc="268437921" symbol="onUpdate"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="101" pc="268437928" symbol="onUpdate"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="102" pc="268437991" symbol="onUpdate"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="103" pc="268438012" symbol="onUpdate"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommView.mc" lineNum="104" pc="268438078" symbol="onUpdate"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="12" pc="268438102" symbol="initialize"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="13" pc="268438106" symbol="initialize"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="16" pc="268438129" symbol="onComplete"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="17" pc="268438133" symbol="onComplete"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="20" pc="268438155" symbol="onError"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="21" pc="268438159" symbol="onError"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="26" pc="268438181" symbol="initialize"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="27" pc="268438185" symbol="initialize"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="30" pc="268438208" symbol="onMenu"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="31" pc="268438212" symbol="onMenu"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="32" pc="268438240" symbol="onMenu"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="34" pc="268438240" symbol="onMenu"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="35" pc="268438262" symbol="onMenu"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="36" pc="268438284" symbol="onMenu"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="37" pc="268438308" symbol="onMenu"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="39" pc="268438336" symbol="onMenu"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="42" pc="268438340" symbol="onTap"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="43" pc="268438344" symbol="onTap"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="44" pc="268438361" symbol="onTap"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="46" pc="268438377" symbol="onTap"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="48" pc="268438390" symbol="onTap"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="53" pc="268438407" symbol="initialize"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="54" pc="268438411" symbol="initialize"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="57" pc="268438434" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="58" pc="268438438" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="59" pc="268438466" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="61" pc="268438469" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="62" pc="268438480" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="63" pc="268438502" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="64" pc="268438524" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="65" pc="268438546" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="66" pc="268438573" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="67" pc="268438584" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="68" pc="268438601" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="69" pc="268438623" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="70" pc="268438638" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="72" pc="268438663" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="73" pc="268438685" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="74" pc="268438707" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="77" pc="268438734" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="82" pc="268438763" symbol="initialize"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="83" pc="268438767" symbol="initialize"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="86" pc="268438790" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="87" pc="268438794" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="89" pc="268438818" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="90" pc="268438829" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="91" pc="268438856" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="92" pc="268438867" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="93" pc="268438894" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="94" pc="268438905" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="97" pc="268438932" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="102" pc="268438957" symbol="initialize"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="103" pc="268438961" symbol="initialize"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="106" pc="268438984" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="107" pc="268438988" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="108" pc="268438999" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="109" pc="268439026" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="110" pc="268439037" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="111" pc="268439052" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="113" pc="268439082" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="114" pc="268439093" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="115" pc="268439110" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="116" pc="268439130" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="117" pc="268439141" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="118" pc="268439151" symbol="onMenuItem"/>
+<entry filename="/Users/cal/Desktop/ForNubis/connectiq-sdk-mac-2.4.5/samples/Comm/./source/CommDelegate.mc" lineNum="121" pc="268439178" symbol="onMenuItem"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="44" symbol="phoneFail"/>
+<entry id="8388716" method="true" symbol="trap"/>
+<entry id="43" symbol="none"/>
+<entry id="19" object="true" symbol="BaseMenuDelegate"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="39" symbol="hello"/>
+<entry field="true" id="9" symbol="page"/>
+<entry id="21" object="true" symbol="ListnerMenuDelegate"/>
+<entry field="true" id="11" symbol="stringsSize"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="41" symbol="mailbox"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="42" symbol="phone"/>
+<entry id="20" object="true" symbol="SendMenuDelegate"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="33" method="true" symbol="drawIntroPage"/>
+<entry id="18" object="true" symbol="CommInputDelegate"/>
+<entry id="8389098" method="true" symbol="onTap"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="26" symbol="AppName"/>
+<entry field="true" id="8389605" symbol="accel"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="8389481" method="true" symbol="setListener"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry field="true" id="25" symbol="LauncherIcon"/>
+<entry id="17" object="true" symbol="CommListener"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388829" method="true" symbol="onComplete"/>
+<entry id="38" symbol="sendData"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="8389670" symbol="screenShape"/>
+<entry field="true" id="24" symbol="id_monkey"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry field="true" id="30" symbol="freCount"/>
+<entry field="true" id="13" symbol="phoneMethod"/>
+<entry id="34" method="true" symbol="onMail"/>
+<entry id="16" object="true" symbol="CommView"/>
+<entry id="15" object="true" symbol="CommExample"/>
+<entry id="23" module="true" symbol="Layouts"/>
+<entry field="true" id="28" symbol="message"/>
+<entry field="true" id="12" symbol="mailMethod"/>
+<entry id="8389939" method="true" symbol="registerForPhoneAppMessages"/>
+<entry id="40" symbol="garmin"/>
+<entry id="8388828" method="true" symbol="onError"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="35" method="true" symbol="onPhone"/>
+<entry id="32" method="true" symbol="timerCallback"/>
+<entry field="true" id="27" symbol="dataTimer"/>
+<entry field="true" id="8389850" symbol="count"/>
+<entry id="22" module="true" symbol="Menus"/>
+<entry field="true" id="29" symbol="fre"/>
+<entry field="true" id="10" symbol="strings"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="14" symbol="crashOnMessage"/>
+<entry field="true" id="31" symbol="accBuffer"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435602" name="state" stackId="1" startPc="268435597"/>
+<entry endPc="268435607" name="state" stackId="1" startPc="268435602"/>
+<entry endPc="268435822" name="i" stackId="3" startPc="268435703"/>
+<entry endPc="268435857" name="mail" stackId="2" startPc="268435683"/>
+<entry endPc="268435858" name="mailIter" stackId="1" startPc="268435679"/>
+<entry endPc="268436051" name="i" stackId="2" startPc="268435862"/>
+<entry endPc="268436052" name="msg" stackId="1" startPc="268435858"/>
+<entry endPc="268436238" name="dc" stackId="1" startPc="268436204"/>
+<entry endPc="268436464" name="zAccel" stackId="6" startPc="268436319"/>
+<entry endPc="268436464" name="yAccel" stackId="5" startPc="268436319"/>
+<entry endPc="268436464" name="xAccel" stackId="4" startPc="268436319"/>
+<entry endPc="268436627" name="listener" stackId="2" startPc="268436242"/>
+<entry endPc="268436627" name="curr" stackId="3" startPc="268436242"/>
+<entry endPc="268436627" name="info" stackId="1" startPc="268436242"/>
+<entry endPc="268437799" name="dc" stackId="1" startPc="268436628"/>
+<entry endPc="268438101" name="i" stackId="2" startPc="268437921"/>
+<entry endPc="268438101" name="y" stackId="3" startPc="268437921"/>
+<entry endPc="268438102" name="dc" stackId="1" startPc="268437799"/>
+<entry endPc="268438339" name="delegate" stackId="2" startPc="268438212"/>
+<entry endPc="268438339" name="menu" stackId="1" startPc="268438212"/>
+<entry endPc="268438407" name="event" stackId="1" startPc="268438340"/>
+<entry endPc="268438762" name="delegate" stackId="3" startPc="268438438"/>
+<entry endPc="268438762" name="menu" stackId="2" startPc="268438438"/>
+<entry endPc="268438763" name="item" stackId="1" startPc="268438434"/>
+<entry endPc="268438956" name="listener" stackId="2" startPc="268438794"/>
+<entry endPc="268438957" name="item" stackId="1" startPc="268438790"/>
+<entry endPc="268439203" name="item" stackId="1" startPc="268438984"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="CommExample">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="CommExample">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="CommExample">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="CommExample">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMail" parent="CommExample">
+<param id="mailIter"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPhone" parent="CommExample">
+<param id="msg"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="CommView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="CommView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="timerCallback" parent="CommView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawIntroPage" parent="CommView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="CommView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="CommListener">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onComplete" parent="CommListener">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onError" parent="CommListener">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="CommInputDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="CommInputDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onTap" parent="CommInputDelegate">
+<param id="event"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="BaseMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenuItem" parent="BaseMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="SendMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenuItem" parent="SendMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="ListnerMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenuItem" parent="ListnerMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="262" parentId="globals" symbolId="SendMenuDelegate" type="class"/>
+<dataEntry offset="317" parentId="globals" symbolId="BaseMenuDelegate" type="class"/>
+<dataEntry offset="372" parentId="globals" symbolId="ListnerMenuDelegate" type="class"/>
+<dataEntry offset="427" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="506" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="553" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="584" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="615" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="646" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="677" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="716" parentId="globals" symbolId="CommView" type="class"/>
+<dataEntry offset="859" parentId="globals" symbolId="CommListener" type="class"/>
+<dataEntry offset="922" parentId="globals" symbolId="CommExample" type="class"/>
+<dataEntry offset="1009" parentId="globals" symbolId="CommInputDelegate" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
