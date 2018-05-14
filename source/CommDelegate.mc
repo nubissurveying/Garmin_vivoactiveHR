@@ -7,6 +7,7 @@
 using Toybox.WatchUi as Ui;
 using Toybox.System as Sys;
 using Toybox.Communications as Comm;
+using Toybox.Application.Storage;
 
 class CommListener extends Comm.ConnectionListener {
     function initialize() {
@@ -45,9 +46,13 @@ class CommInputDelegate extends Ui.BehaviorDelegate {
         } else {
             page = 0;
         }
+        
+//        startRecording = 2;
         Ui.requestUpdate();
     }
 }
+
+
 
 class BaseMenuDelegate extends Ui.MenuInputDelegate {
     function initialize() {
